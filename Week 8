@@ -64,6 +64,50 @@ Testing and Debugging: As with any part of software development, Task 2 requires
 
 ##Task 3 List Species in City (Stub)##
 
+def search_species(city):
+    return [
+        {"Species":{"TaxonID":1039,"AcceptedCommonName":"dolphin","PestStatus":"Nil"}},
+        {"Species":{"TaxonID":1040,"AcceptedCommonName":"snake","PestStatus":"Venomous"}}
+    ]
+
+def display_species(species_list):
+
+    print("\nDetail of species : \n")
+    for species in species_list:
+        print(
+            "TaxonID : " + str(species["Species"]["TaxonID"]) + "\n"
+            "Name of the species : " + species["Species"]["AcceptedCommonName"] + "\n"
+            "Pest Status : " + species["Species"]["PestStatus"] + "\n")
+
+Functionality Description:
+
+The system needs to display a list of species recorded for a given city. For example, searching for Cairns might return species like dolphins and whipsnakes.
+
+Each species is represented by a dictionary structure containing fields such as TaxonID, AcceptedCommonName, and PestStatus.
+
+Menu Update:
+
+Update the display_menu() function to include an option for displaying animal species in a city. 
+
+Search Species Function:
+
+Implement a function named search_species(city) that takes the name of a city as input and returns a list of nested species dictionaries.
+
+Display Species Function:
+
+Implement a function named display_species(species_list) that takes a list of species dictionaries as input and prints the list of species to the screen.
+
+Decide on an appropriate format for displaying each species. You can choose to display species names, TaxonIDs, PestStatus, or any other relevant information.
+Update Main Function:
+
+Update the main() function to accept the command "species" followed by a city name.
+
+When this command is received, call the search_species(city) function to retrieve the list of species for the specified city.
+
+Then, call the display_species(species_list) function to print the list of species to the screen.
+
+For now, this function can be implemented as a stub that returns a predefined list of species dictionaries, regardless of the input city.
+
 ##Task 4 List Animal Sightings in City (Stub)##
 
 ##Task 5 List Venomous Animal Sightings in a City##
