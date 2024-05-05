@@ -1,4 +1,4 @@
-Task 1 Display Menu
+##Task 1 Display Menu##
  
 def display_menu():
     print("COIT20245 - Assignment 2")
@@ -14,10 +14,56 @@ Explanation of TASK 1
 This code defines a display_menu() function that prints out the menu options for the application. 
 The main() function currently only calls display_menu() for debugging purposes.
 
-Task 2 User Input
+##Task 2 User Input##
 
-Task 3 List Species in City (Stub)
+def display_menu():
+    print("\nCOIT20245 - Assignment 2")
+    print("\nMenu : ")
+    print("a. Help Menu")
+    print("b. Exit")
 
-Task 4 List Animal Sightings in City (Stub)
+def main():
 
-Task 5 List Venomous Animal Sightings in a City
+    display_menu()
+
+    while True:
+        user_input = input("wildlife > ")
+
+        if user_input.lower() == "help":
+            display_menu()
+        elif user_input.lower() == "exit":
+            print("Exiting the program.")
+            break
+        else:
+            print("Error: Invalid command. Please enter 'help' or 'exit'.")
+
+
+if __name__ == "__main__":
+    main()
+
+Task 2 involves handling user input in the Queensland Wildlife Sightings Application. Let's delve into the theory behind this task:
+
+User Input Handling: In any interactive application, user input is crucial. Task 2 focuses on capturing and processing user input to enable users to interact with the application and perform various tasks.
+
+Input Functionality: The application needs to prompt the user for input in a clear and user-friendly manner.
+
+It should provide options for the user to choose from and handle different types of input, such as text or numerical values.
+
+User Interface Design: While the application might not have a graphical user interface (GUI), it still needs to provide a text-based interface that guides users through the available options and allows them to make selections.
+
+Error Handling: Task 2 also involves error handling to ensure that the application gracefully handles invalid input from the user. This includes detecting input errors and providing appropriate feedback to the user to correct them.
+
+Integration with Application Logic: Once user input is captured, it needs to be processed and integrated with the application's logic to perform the desired actions.
+
+This might involve calling specific functions or methods based on the user's input.
+
+Iterative Interaction: The application should continue to prompt the user for input until they explicitly choose to exit or perform another action that terminates the interaction loop.
+
+Testing and Debugging: As with any part of software development, Task 2 requires thorough testing and debugging to ensure that user input is captured and processed correctly under various scenarios.
+
+
+##Task 3 List Species in City (Stub)##
+
+##Task 4 List Animal Sightings in City (Stub)##
+
+##Task 5 List Venomous Animal Sightings in a City##
