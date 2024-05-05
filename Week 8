@@ -1,5 +1,5 @@
 Task 1 Display Menu
-
+ 
 def display_menu():
     print("COIT20245 - Assignment 2")
     print("\nMenu : ")
