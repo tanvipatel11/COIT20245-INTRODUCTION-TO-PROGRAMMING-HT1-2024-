@@ -1,4 +1,4 @@
-# Task 5 Start #
+
 def display_menu():
     """
     Display the menu options for the wildlife sighting program.
@@ -77,10 +77,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# Task 5 End #
 
-# To run this code you right this command
-#wildlife> venomous
-#Enter city: melbourne
-#Species found:
-#TaxonID: 236 , Name: snake, Pest Status: Venomous
