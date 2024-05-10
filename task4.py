@@ -1,4 +1,4 @@
-# Task 4 Start #
+
 
 def display_menu():
     print("Menu:")
@@ -65,6 +65,3 @@ def main():
 # Debugging and testing the main() function
 if __name__ == "__main__":
     main()
-# Task 4 End #
-# # To run your code you want to type this in command 
-# sighthins species melbourne # 
