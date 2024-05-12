@@ -1,8 +1,6 @@
+print("Task 1 Display Menu")
 def display_menu():
-    print("COIT20245 - Assignment 2")
-    print("\nMenu : ")
-    print("a. Help Menu")
-    print("b. Exit")
 
-if __name__ == "__main__":
-    display_menu()
+    print("Menu:")
+    print("a. Print help menu")
+    print("b. Exit the program")
