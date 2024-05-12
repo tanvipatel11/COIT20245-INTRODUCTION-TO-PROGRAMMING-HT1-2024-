@@ -14,28 +14,25 @@ The main() function currently only calls display_menu() for debugging purposes.
 
 ##Task 2 User Input##
 
+print("Task 2 User Input")
 def display_menu():
-    print("\nCOIT20245 - Assignment 2")
-    print("\nMenu : ")
-    print("a. Help Menu")
-    print("b. Exit")
+   
+    print("Menu:")
+    print("a. Print help menu")
+    print("b. Exit the program")
 
 def main():
-
-    display_menu()
-
+    
+    display_menu()  
     while True:
-        user_input = input("wildlife > ")
-
-        if user_input.lower() == "help":
-            display_menu()
-        elif user_input.lower() == "exit":
+        user_input = input("wildlife> ")
+        if user_input == 'help':
+            display_menu()  
+        elif user_input == 'exit':
             print("Exiting the program.")
-            break
+            return  
         else:
-            print("Error: Invalid command. Please enter 'help' or 'exit'.")
-
-
+            print("Invalid command. Please enter 'help' or 'exit'.")
 if __name__ == "__main__":
     main()
 
