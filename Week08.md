@@ -19,6 +19,7 @@ The main() function currently only calls display_menu() for debugging purposes.
 # ##Task 2 User Input##
 
 print("Task 2 User Input")
+
 def display_menu():
    
     print("Menu:")
