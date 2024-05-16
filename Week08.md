@@ -4,6 +4,7 @@
 # ##Task 1 Display Menu##
  
 print("Task 1 Display Menu")
+
 def display_menu():
 
     print("Menu:")
