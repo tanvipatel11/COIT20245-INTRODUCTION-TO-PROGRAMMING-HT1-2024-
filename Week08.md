@@ -1,4 +1,7 @@
-##Task 1 Display Menu##
+
+# WEEK 8
+
+# ##Task 1 Display Menu##
  
 print("Task 1 Display Menu")
 def display_menu():
@@ -7,12 +10,12 @@ def display_menu():
     print("a. Print help menu")
     print("b. Exit the program")
 
-Explanation of TASK 1 
+# Explanation of TASK 1 
 
 This code defines a display_menu() function that prints out the menu options for the application. 
 The main() function currently only calls display_menu() for debugging purposes.
 
-##Task 2 User Input##
+# ##Task 2 User Input##
 
 print("Task 2 User Input")
 def display_menu():
@@ -36,28 +39,30 @@ def main():
 if __name__ == "__main__":
     main()
 
-Task 2 involves handling user input in the Queensland Wildlife Sightings Application. Let's delve into the theory behind this task:
+# Explanation of TASK 2
 
-User Input Handling: In any interactive application, user input is crucial. Task 2 focuses on capturing and processing user input to enable users to interact with the application and perform various tasks.
+# Task 2 involves handling user input in the Queensland Wildlife Sightings Application. Let's delve into the theory behind this task:
 
-Input Functionality: The application needs to prompt the user for input in a clear and user-friendly manner.
+**User Input Handling:** In any interactive application, user input is crucial. Task 2 focuses on capturing and processing user input to enable users to interact with the application and perform various tasks.
+
+**Input Functionality:** The application needs to prompt the user for input in a clear and user-friendly manner.
 
 It should provide options for the user to choose from and handle different types of input, such as text or numerical values.
 
-User Interface Design: While the application might not have a graphical user interface (GUI), it still needs to provide a text-based interface that guides users through the available options and allows them to make selections.
+**User Interface Design:** While the application might not have a graphical user interface (GUI), it still needs to provide a text-based interface that guides users through the available options and allows them to make selections.
 
-Error Handling: Task 2 also involves error handling to ensure that the application gracefully handles invalid input from the user. This includes detecting input errors and providing appropriate feedback to the user to correct them.
+**Error Handling:** Task 2 also involves error handling to ensure that the application gracefully handles invalid input from the user. This includes detecting input errors and providing appropriate feedback to the user to correct them.
 
 Integration with Application Logic: Once user input is captured, it needs to be processed and integrated with the application's logic to perform the desired actions.
 
 This might involve calling specific functions or methods based on the user's input.
 
-Iterative Interaction: The application should continue to prompt the user for input until they explicitly choose to exit or perform another action that terminates the interaction loop.
+**Iterative Interaction:** The application should continue to prompt the user for input until they explicitly choose to exit or perform another action that terminates the interaction loop.
 
-Testing and Debugging: As with any part of software development, Task 2 requires thorough testing and debugging to ensure that user input is captured and processed correctly under various scenarios.
+**Testing and Debugging:** As with any part of software development, Task 2 requires thorough testing and debugging to ensure that user input is captured and processed correctly under various scenarios.
 
 
-##Task 3 List Species in City (Stub)##
+# ##Task 3 List Species in City (Stub)##
 
 def display_menu():
 
@@ -102,27 +107,30 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# Explanation of TASK 3
 
-Functionality Description:
+# Functionality Description:
 
 The system needs to display a list of species recorded for a given city. For example, searching for Cairns might return species like dolphins and whipsnakes.
 
 Each species is represented by a dictionary structure containing fields such as TaxonID, AcceptedCommonName, and PestStatus.
 
-Menu Update:
+**Menu Update:**
 
 Update the display_menu() function to include an option for displaying animal species in a city. 
 
-Search Species Function:
+**Search Species Function:**
 
 Implement a function named search_species(city) that takes the name of a city as input and returns a list of nested species dictionaries.
 
-Display Species Function:
+**Display Species Function:**
 
 Implement a function named display_species(species_list) that takes a list of species dictionaries as input and prints the list of species to the screen.
 
 Decide on an appropriate format for displaying each species. You can choose to display species names, TaxonIDs, PestStatus, or any other relevant information.
-Update Main Function:
+
+**Update Main Function:**
 
 Update the main() function to accept the command "species" followed by a city name.
 
@@ -132,7 +140,8 @@ Then, call the display_species(species_list) function to print the list of speci
 
 For now, this function can be implemented as a stub that returns a predefined list of species dictionaries, regardless of the input city.
 
-##Task 4 List Animal Sightings in City (Stub)##
+# ##Task 4 List Animal Sightings in City (Stub)##
+
 # Task 4 Start #
 
 def display_menu():
@@ -198,6 +207,7 @@ def main():
             print("Invalid command. Please enter 'help', 'exit', 'species <city>', or 'sightings <species>, <city>'.")
 
 # Debugging and testing the main() function
+
 if __name__ == "__main__":
     main()
 # Task 4 End #
@@ -206,8 +216,10 @@ if __name__ == "__main__":
 
 
 
-##Task 5 List Venomous Animal Sightings in a City##
+# ##Task 5 List Venomous Animal Sightings in a City##
+
 # Task 5 Start #
+
 def display_menu():
     """
     Display the menu options for the wildlife sighting program.
