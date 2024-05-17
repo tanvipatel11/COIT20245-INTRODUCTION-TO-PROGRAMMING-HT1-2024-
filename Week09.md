@@ -1,7 +1,7 @@
 # WEEK 9
 
 **Task 6 Add a GPS stub**
-![Screenshot](images/Task6-Screenshot.png)
+![Screenshot](Images/Task6-Screenshot.png)
 
 
 **Task 7 GPS Webservice Module**
