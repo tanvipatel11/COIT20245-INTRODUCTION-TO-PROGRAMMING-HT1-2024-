@@ -7,7 +7,6 @@
 
 
 **Task 7 GPS Webservice Module**
-
 ![Screenshot](Images/Task7-Screenshot.png)
 
 ![Screenshot](Images/Task7-Screenshot1.png)
@@ -18,7 +17,6 @@
 
 
 **Task 8 Wildlife Module Get Species List**
-
 ![Screenshot](Images/Task8-Screenshot.png)
 
 ![Screenshot](Images/Task8-Screenshot1.png)
