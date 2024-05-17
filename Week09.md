@@ -13,6 +13,6 @@
 
 ![Screenshot](Images/Task7-Screenshot2.png)
 
-![Screenshot](Images/Task7-ScreenshotOutput.png)
+![Screenshot](Images/Task7-ScreenshotOutpot.png)
 
 **Task 8 Wildlife Module Get Species List**
