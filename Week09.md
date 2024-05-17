@@ -23,4 +23,4 @@
 
 ![Screenshot](Images/Task8-Screenshot2.png)
 
-![Screenshot](Images/Task8-ScreenshotOutpot.png)
+![Screenshot](Images/Task8-ScreenshotOutput.png)
