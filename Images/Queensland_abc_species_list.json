@@ -1,0 +1,4412 @@
+[
+    {
+        "Species": {
+            "TaxonID": 26888,
+            "AcceptedCommonName": "Unknown or Code Pending",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1039,
+            "AcceptedCommonName": "Australian snubfin dolphin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1080,
+            "AcceptedCommonName": "pig",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1056,
+            "AcceptedCommonName": "cat",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1068,
+            "AcceptedCommonName": "dingo",
+            "PestStatus": "Potentially Aggressive"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 714,
+            "AcceptedCommonName": "dugong",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 767,
+            "AcceptedCommonName": "water rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 759,
+            "AcceptedCommonName": "fawn-footed melomys",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 742,
+            "AcceptedCommonName": "Cape York rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 730,
+            "AcceptedCommonName": "brown rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 731,
+            "AcceptedCommonName": "black rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 732,
+            "AcceptedCommonName": "canefield rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 736,
+            "AcceptedCommonName": "giant white-tailed rat",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 724,
+            "AcceptedCommonName": "water mouse",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 961,
+            "AcceptedCommonName": "hoary wattled bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 952,
+            "AcceptedCommonName": "golden-tipped bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22066,
+            "AcceptedCommonName": "large-footed myotis",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 932,
+            "AcceptedCommonName": "northern broad-nosed bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 954,
+            "AcceptedCommonName": "little bent-wing bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 955,
+            "AcceptedCommonName": "eastern bent-wing bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 989,
+            "AcceptedCommonName": "white-striped freetail bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 996,
+            "AcceptedCommonName": "northern freetail bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 998,
+            "AcceptedCommonName": "northern free-tailed bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22061,
+            "AcceptedCommonName": "eastern free-tailed bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 988,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1008,
+            "AcceptedCommonName": "bare-rumped sheathtail bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1010,
+            "AcceptedCommonName": "coastal sheathtail bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1003,
+            "AcceptedCommonName": "diadem leaf-nosed bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 968,
+            "AcceptedCommonName": "eastern horseshoe-bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 978,
+            "AcceptedCommonName": "northern blossom bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 980,
+            "AcceptedCommonName": "eastern tube-nosed bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 986,
+            "AcceptedCommonName": "spectacled flying-fox",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 963,
+            "AcceptedCommonName": "little red flying-fox",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 966,
+            "AcceptedCommonName": "eastern blossom bat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 901,
+            "AcceptedCommonName": "eastern grey kangaroo",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 912,
+            "AcceptedCommonName": "agile wallaby",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 896,
+            "AcceptedCommonName": "red-legged pademelon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 869,
+            "AcceptedCommonName": "musky rat-kangaroo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 845,
+            "AcceptedCommonName": "lemuroid ringtail possum",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 851,
+            "AcceptedCommonName": "common ringtail possum",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 873,
+            "AcceptedCommonName": "striped possum",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 36762,
+            "AcceptedCommonName": "Krefft's glider",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 784,
+            "AcceptedCommonName": "northern brown bandicoot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35851,
+            "AcceptedCommonName": "northern long-nosed bandicoot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 800,
+            "AcceptedCommonName": "northern quoll",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 802,
+            "AcceptedCommonName": "spotted-tailed quoll (northern subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 795,
+            "AcceptedCommonName": "red-cheeked dunnart",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 836,
+            "AcceptedCommonName": "platypus",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1455,
+            "AcceptedCommonName": "Australasian pipit",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1458,
+            "AcceptedCommonName": "yellow wagtail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1360,
+            "AcceptedCommonName": "house sparrow",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1374,
+            "AcceptedCommonName": "painted finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1366,
+            "AcceptedCommonName": "chestnut-breasted mannikin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1367,
+            "AcceptedCommonName": "nutmeg mannikin",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19936,
+            "AcceptedCommonName": "crimson finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18789,
+            "AcceptedCommonName": "crimson finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1359,
+            "AcceptedCommonName": "red-browed finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1363,
+            "AcceptedCommonName": "black-throated finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1342,
+            "AcceptedCommonName": "double-barred finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1343,
+            "AcceptedCommonName": "zebra finch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1611,
+            "AcceptedCommonName": "mistletoebird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1451,
+            "AcceptedCommonName": "olive-backed sunbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1314,
+            "AcceptedCommonName": "common myna",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1300,
+            "AcceptedCommonName": "metallic starling",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1303,
+            "AcceptedCommonName": "common starling",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1464,
+            "AcceptedCommonName": "Bassian thrush",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1571,
+            "AcceptedCommonName": "red-rumped swallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1572,
+            "AcceptedCommonName": "welcome swallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1561,
+            "AcceptedCommonName": "barn swallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1585,
+            "AcceptedCommonName": "fairy martin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1573,
+            "AcceptedCommonName": "tree martin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1276,
+            "AcceptedCommonName": "silvereye",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22480,
+            "AcceptedCommonName": "silvereye (Cape York Peninsula)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1291,
+            "AcceptedCommonName": "brown songlark",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1289,
+            "AcceptedCommonName": "tawny grassbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1305,
+            "AcceptedCommonName": "Australian reed-warbler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1294,
+            "AcceptedCommonName": "golden-headed cisticola",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1297,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1652,
+            "AcceptedCommonName": "Horsfield's bushlark",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1347,
+            "AcceptedCommonName": "eastern yellow robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1350,
+            "AcceptedCommonName": "grey-headed robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1341,
+            "AcceptedCommonName": "yellow-legged flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1339,
+            "AcceptedCommonName": "jacky winter",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1340,
+            "AcceptedCommonName": "lemon-bellied flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1348,
+            "AcceptedCommonName": "mangrove robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1329,
+            "AcceptedCommonName": "red-capped robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1335,
+            "AcceptedCommonName": "white-browed robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1321,
+            "AcceptedCommonName": "pale-yellow robin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1439,
+            "AcceptedCommonName": "trumpet manucode",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1417,
+            "AcceptedCommonName": "Victoria's riflebird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1591,
+            "AcceptedCommonName": "yellow-breasted boatbill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1613,
+            "AcceptedCommonName": "pied monarch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1594,
+            "AcceptedCommonName": "white-eared monarch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1589,
+            "AcceptedCommonName": "magpie-lark",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1593,
+            "AcceptedCommonName": "black-winged monarch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1595,
+            "AcceptedCommonName": "black-faced monarch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1598,
+            "AcceptedCommonName": "shining flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1599,
+            "AcceptedCommonName": "satin flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1600,
+            "AcceptedCommonName": "restless flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1586,
+            "AcceptedCommonName": "leaden flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1587,
+            "AcceptedCommonName": "broad-billed flycatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1597,
+            "AcceptedCommonName": "spectacled monarch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1609,
+            "AcceptedCommonName": "Torresian crow",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1610,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1575,
+            "AcceptedCommonName": "grey fantail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1576,
+            "AcceptedCommonName": "willie wagtail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22466,
+            "AcceptedCommonName": "willie wagtail (northern)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1578,
+            "AcceptedCommonName": "rufous fantail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1579,
+            "AcceptedCommonName": "northern fantail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1601,
+            "AcceptedCommonName": "spangled drongo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22468,
+            "AcceptedCommonName": "spangled drongo (Cape York Peninsula)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1658,
+            "AcceptedCommonName": "black-faced woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1659,
+            "AcceptedCommonName": "dusky woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1660,
+            "AcceptedCommonName": "white-breasted woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1646,
+            "AcceptedCommonName": "little woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1647,
+            "AcceptedCommonName": "masked woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1649,
+            "AcceptedCommonName": "white-browed woodswallow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1654,
+            "AcceptedCommonName": "pied butcherbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1656,
+            "AcceptedCommonName": "grey butcherbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1644,
+            "AcceptedCommonName": "Australian magpie",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1655,
+            "AcceptedCommonName": "black butcherbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22476,
+            "AcceptedCommonName": "black butcherbird (coastal north-central Queensland))",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1645,
+            "AcceptedCommonName": "pied currawong",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1441,
+            "AcceptedCommonName": "green oriole",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1442,
+            "AcceptedCommonName": "olive-backed oriole",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1444,
+            "AcceptedCommonName": "Australasian figbird",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1448,
+            "AcceptedCommonName": "Bower's shrike-thrush",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1449,
+            "AcceptedCommonName": "grey shrike-thrush",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1450,
+            "AcceptedCommonName": "little shrike-thrush",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1434,
+            "AcceptedCommonName": "mangrove golden whistler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1436,
+            "AcceptedCommonName": "golden whistler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22473,
+            "AcceptedCommonName": "golden whistler (central Queensland)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1437,
+            "AcceptedCommonName": "rufous whistler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18157,
+            "AcceptedCommonName": "grey whistler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1634,
+            "AcceptedCommonName": "barred cuckoo-shrike",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1636,
+            "AcceptedCommonName": "black-faced cuckoo-shrike",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1637,
+            "AcceptedCommonName": "white-bellied cuckoo-shrike",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1639,
+            "AcceptedCommonName": "common cicadabird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1640,
+            "AcceptedCommonName": "varied triller",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1642,
+            "AcceptedCommonName": "white-winged triller",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1453,
+            "AcceptedCommonName": "varied sittella",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1623,
+            "AcceptedCommonName": "eastern whipbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1446,
+            "AcceptedCommonName": "chowchilla",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1318,
+            "AcceptedCommonName": "grey-crowned babbler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1555,
+            "AcceptedCommonName": "eastern spinebill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1512,
+            "AcceptedCommonName": "bridled honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1523,
+            "AcceptedCommonName": "yellow-faced honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1547,
+            "AcceptedCommonName": "banded honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1537,
+            "AcceptedCommonName": "rufous-throated honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1539,
+            "AcceptedCommonName": "blue-faced honeyeater",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1510,
+            "AcceptedCommonName": "varied honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1496,
+            "AcceptedCommonName": "singing honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1497,
+            "AcceptedCommonName": "brown honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1500,
+            "AcceptedCommonName": "noisy miner",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1504,
+            "AcceptedCommonName": "Lewin's honeyeater",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1505,
+            "AcceptedCommonName": "yellow-spotted honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1507,
+            "AcceptedCommonName": "white-throated honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1485,
+            "AcceptedCommonName": "white-naped honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1503,
+            "AcceptedCommonName": "graceful honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1488,
+            "AcceptedCommonName": "dusky honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1489,
+            "AcceptedCommonName": "scarlet honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1491,
+            "AcceptedCommonName": "silver-crowned friarbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1492,
+            "AcceptedCommonName": "helmeted friarbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1493,
+            "AcceptedCommonName": "little friarbird",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1494,
+            "AcceptedCommonName": "noisy friarbird",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1482,
+            "AcceptedCommonName": "white-cheeked honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1525,
+            "AcceptedCommonName": "yellow-tinted honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1513,
+            "AcceptedCommonName": "fuscous honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1518,
+            "AcceptedCommonName": "white-plumed honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1473,
+            "AcceptedCommonName": "bar-breasted honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1474,
+            "AcceptedCommonName": "brown-backed honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1511,
+            "AcceptedCommonName": "yellow honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1509,
+            "AcceptedCommonName": "white-gaped honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1546,
+            "AcceptedCommonName": "black honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1466,
+            "AcceptedCommonName": "Macleay's honeyeater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1389,
+            "AcceptedCommonName": "spotted pardalote",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1392,
+            "AcceptedCommonName": "striated pardalote",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1422,
+            "AcceptedCommonName": "yellow thornbill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1425,
+            "AcceptedCommonName": "buff-rumped thornbill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1408,
+            "AcceptedCommonName": "mangrove gerygone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1409,
+            "AcceptedCommonName": "large-billed gerygone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1410,
+            "AcceptedCommonName": "brown gerygone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1396,
+            "AcceptedCommonName": "white-throated gerygone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1397,
+            "AcceptedCommonName": "fairy gerygone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1387,
+            "AcceptedCommonName": "fernwren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1381,
+            "AcceptedCommonName": "yellow-throated scrubwren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1382,
+            "AcceptedCommonName": "white-browed scrubwren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1383,
+            "AcceptedCommonName": "Atherton scrubwren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1384,
+            "AcceptedCommonName": "large-billed scrubwren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1371,
+            "AcceptedCommonName": "weebill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18155,
+            "AcceptedCommonName": "lovely fairy-wren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1558,
+            "AcceptedCommonName": "red-backed fairy-wren",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1178,
+            "AcceptedCommonName": "spotted catbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1160,
+            "AcceptedCommonName": "spotted bowerbird",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1161,
+            "AcceptedCommonName": "great bowerbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1115,
+            "AcceptedCommonName": "golden bowerbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1320,
+            "AcceptedCommonName": "satin bowerbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1306,
+            "AcceptedCommonName": "tooth-billed bowerbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1628,
+            "AcceptedCommonName": "brown treecreeper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1326,
+            "AcceptedCommonName": "noisy pitta",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1779,
+            "AcceptedCommonName": "dollarbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1764,
+            "AcceptedCommonName": "rainbow bee-eater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1776,
+            "AcceptedCommonName": "azure kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1777,
+            "AcceptedCommonName": "little kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1766,
+            "AcceptedCommonName": "blue-winged kookaburra",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1767,
+            "AcceptedCommonName": "laughing kookaburra",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1758,
+            "AcceptedCommonName": "buff-breasted paradise-kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1760,
+            "AcceptedCommonName": "forest kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1761,
+            "AcceptedCommonName": "red-backed kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1762,
+            "AcceptedCommonName": "sacred kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1759,
+            "AcceptedCommonName": "Torresian kingfisher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1108,
+            "AcceptedCommonName": "eastern barn owl",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1109,
+            "AcceptedCommonName": "eastern grass owl",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1110,
+            "AcceptedCommonName": "lesser sooty owl",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1102,
+            "AcceptedCommonName": "southern boobook",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1101,
+            "AcceptedCommonName": "barking owl",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1105,
+            "AcceptedCommonName": "rufous owl (southern subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1754,
+            "AcceptedCommonName": "fan-tailed cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1750,
+            "AcceptedCommonName": "pallid cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1743,
+            "AcceptedCommonName": "brush cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1751,
+            "AcceptedCommonName": "pheasant coucal",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1744,
+            "AcceptedCommonName": "Horsfield's bronze-cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1745,
+            "AcceptedCommonName": "shining bronze-cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1746,
+            "AcceptedCommonName": "little bronze-cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1748,
+            "AcceptedCommonName": "Gould's bronze-cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1736,
+            "AcceptedCommonName": "oriental cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1738,
+            "AcceptedCommonName": "eastern koel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1740,
+            "AcceptedCommonName": "channel-billed cuckoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1180,
+            "AcceptedCommonName": "Australian king-parrot",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1182,
+            "AcceptedCommonName": "red-winged parrot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18327,
+            "AcceptedCommonName": "double-eyed fig-parrot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1165,
+            "AcceptedCommonName": "Macleay's fig-parrot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1147,
+            "AcceptedCommonName": "little lorikeet",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1136,
+            "AcceptedCommonName": "pale-headed rosella",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 21971,
+            "AcceptedCommonName": "western rosella",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1124,
+            "AcceptedCommonName": "scaly-breasted lorikeet",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1125,
+            "AcceptedCommonName": "rainbow lorikeet",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1191,
+            "AcceptedCommonName": "sulphur-crested cockatoo",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1194,
+            "AcceptedCommonName": "little corella",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 21967,
+            "AcceptedCommonName": "long-billed corella",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1196,
+            "AcceptedCommonName": "red-tailed black-cockatoo",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22492,
+            "AcceptedCommonName": "red-tailed black-cockatoo (Cape York & Eastern Aust)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1193,
+            "AcceptedCommonName": "galah",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18153,
+            "AcceptedCommonName": "black noddy",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1916,
+            "AcceptedCommonName": "brown noddy",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1919,
+            "AcceptedCommonName": "whiskered tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1920,
+            "AcceptedCommonName": "white-winged black tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1912,
+            "AcceptedCommonName": "silver gull",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1886,
+            "AcceptedCommonName": "Australian tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1896,
+            "AcceptedCommonName": "Caspian tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 32026,
+            "AcceptedCommonName": "black-tailed gull",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1911,
+            "AcceptedCommonName": "kelp gull",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1910,
+            "AcceptedCommonName": "laughing gull",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1914,
+            "AcceptedCommonName": "Franklin's gull",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1906,
+            "AcceptedCommonName": "bridled tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1898,
+            "AcceptedCommonName": "sooty tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1897,
+            "AcceptedCommonName": "roseate tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1899,
+            "AcceptedCommonName": "common tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1887,
+            "AcceptedCommonName": "Arctic tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1890,
+            "AcceptedCommonName": "black-naped tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1905,
+            "AcceptedCommonName": "little tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1900,
+            "AcceptedCommonName": "New Caledonian fairy tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1907,
+            "AcceptedCommonName": "lesser crested tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1895,
+            "AcceptedCommonName": "crested tern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1935,
+            "AcceptedCommonName": "oriental pratincole",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1923,
+            "AcceptedCommonName": "Australian pratincole",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1091,
+            "AcceptedCommonName": "red-backed button-quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1094,
+            "AcceptedCommonName": "red-chested button-quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1081,
+            "AcceptedCommonName": "painted button-quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1082,
+            "AcceptedCommonName": "little button-quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1885,
+            "AcceptedCommonName": "common sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1872,
+            "AcceptedCommonName": "ruddy turnstone",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1874,
+            "AcceptedCommonName": "sharp-tailed sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1875,
+            "AcceptedCommonName": "sanderling",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1876,
+            "AcceptedCommonName": "dunlin",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1877,
+            "AcceptedCommonName": "red knot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1863,
+            "AcceptedCommonName": "broad-billed sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1878,
+            "AcceptedCommonName": "curlew sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1879,
+            "AcceptedCommonName": "pectoral sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1849,
+            "AcceptedCommonName": "ruff",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1880,
+            "AcceptedCommonName": "red-necked stint",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1870,
+            "AcceptedCommonName": "long-toed stint",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1856,
+            "AcceptedCommonName": "great knot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1857,
+            "AcceptedCommonName": "Latham's snipe",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1865,
+            "AcceptedCommonName": "Asian dowitcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1867,
+            "AcceptedCommonName": "Western Alaskan bar-tailed godwit",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1855,
+            "AcceptedCommonName": "black-tailed godwit",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1843,
+            "AcceptedCommonName": "eastern curlew",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1844,
+            "AcceptedCommonName": "little curlew",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1845,
+            "AcceptedCommonName": "whimbrel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1860,
+            "AcceptedCommonName": "grey-tailed tattler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1852,
+            "AcceptedCommonName": "wood sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18835,
+            "AcceptedCommonName": "Nordmann's greenshank",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1861,
+            "AcceptedCommonName": "wandering tattler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1853,
+            "AcceptedCommonName": "common greenshank",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1854,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1841,
+            "AcceptedCommonName": "marsh sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18831,
+            "AcceptedCommonName": "common redshank",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1827,
+            "AcceptedCommonName": "terek sandpiper",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1883,
+            "AcceptedCommonName": "Australian painted-snipe",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1928,
+            "AcceptedCommonName": "comb-crested jacana",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1946,
+            "AcceptedCommonName": "double-banded plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1948,
+            "AcceptedCommonName": "greater sand plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1936,
+            "AcceptedCommonName": "lesser sand plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1937,
+            "AcceptedCommonName": "red-capped plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1938,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1939,
+            "AcceptedCommonName": "oriental plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1940,
+            "AcceptedCommonName": "black-fronted dotterel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1942,
+            "AcceptedCommonName": "red-kneed dotterel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1944,
+            "AcceptedCommonName": "Pacific golden plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1931,
+            "AcceptedCommonName": "grey plover",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27774,
+            "AcceptedCommonName": "masked lapwing",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1932,
+            "AcceptedCommonName": "masked lapwing (northern subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18143,
+            "AcceptedCommonName": "banded lapwing",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1893,
+            "AcceptedCommonName": "pied stilt",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1881,
+            "AcceptedCommonName": "red-necked avocet",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1925,
+            "AcceptedCommonName": "sooty oystercatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1926,
+            "AcceptedCommonName": "Australian pied oystercatcher",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1956,
+            "AcceptedCommonName": "bush stone-curlew",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1958,
+            "AcceptedCommonName": "beach stone-curlew",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1680,
+            "AcceptedCommonName": "Australian bustard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1663,
+            "AcceptedCommonName": "white-browed crake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1682,
+            "AcceptedCommonName": "pale-vented bush-hen",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1686,
+            "AcceptedCommonName": "Eurasian coot",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1673,
+            "AcceptedCommonName": "dusky moorhen",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1675,
+            "AcceptedCommonName": "buff-banded rail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1670,
+            "AcceptedCommonName": "Lewin's rail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1662,
+            "AcceptedCommonName": "purple swamphen",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1669,
+            "AcceptedCommonName": "red-necked crake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1665,
+            "AcceptedCommonName": "Baillon's crake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1678,
+            "AcceptedCommonName": "brolga",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1716,
+            "AcceptedCommonName": "brown falcon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1704,
+            "AcceptedCommonName": "nankeen kestrel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1691,
+            "AcceptedCommonName": "Australian hobby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1692,
+            "AcceptedCommonName": "Australian peregrine falcon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1742,
+            "AcceptedCommonName": "collared sparrowhawk",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1729,
+            "AcceptedCommonName": "brown goshawk",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1730,
+            "AcceptedCommonName": "grey goshawk",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1732,
+            "AcceptedCommonName": "wedge-tailed eagle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1721,
+            "AcceptedCommonName": "Pacific baza",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1722,
+            "AcceptedCommonName": "swamp harrier",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1723,
+            "AcceptedCommonName": "spotted harrier",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1725,
+            "AcceptedCommonName": "black-shouldered kite",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1728,
+            "AcceptedCommonName": "red goshawk",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1718,
+            "AcceptedCommonName": "white-bellied sea-eagle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1720,
+            "AcceptedCommonName": "brahminy kite",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1707,
+            "AcceptedCommonName": "whistling kite",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1708,
+            "AcceptedCommonName": "black-breasted buzzard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1710,
+            "AcceptedCommonName": "little eagle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1712,
+            "AcceptedCommonName": "square-tailed kite",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1714,
+            "AcceptedCommonName": "black kite",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1702,
+            "AcceptedCommonName": "eastern osprey",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1822,
+            "AcceptedCommonName": "yellow-billed spoonbill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1823,
+            "AcceptedCommonName": "royal spoonbill",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1825,
+            "AcceptedCommonName": "glossy ibis",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1812,
+            "AcceptedCommonName": "Australian white ibis",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1800,
+            "AcceptedCommonName": "straw-necked ibis",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1829,
+            "AcceptedCommonName": "eastern great egret",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1831,
+            "AcceptedCommonName": "intermediate egret",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1832,
+            "AcceptedCommonName": "white-necked heron",
+            "PestStatus": "Disease Vector"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1835,
+            "AcceptedCommonName": "great-billed heron",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1830,
+            "AcceptedCommonName": "cattle egret",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1839,
+            "AcceptedCommonName": "striated heron",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1840,
+            "AcceptedCommonName": "little egret",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1826,
+            "AcceptedCommonName": "white-faced heron",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1833,
+            "AcceptedCommonName": "pied heron",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1813,
+            "AcceptedCommonName": "eastern reef egret",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1815,
+            "AcceptedCommonName": "black bittern",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1818,
+            "AcceptedCommonName": "nankeen night-heron",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1820,
+            "AcceptedCommonName": "black-necked stork",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1284,
+            "AcceptedCommonName": "Australian pelican",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1261,
+            "AcceptedCommonName": "little pied cormorant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1275,
+            "AcceptedCommonName": "great cormorant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1263,
+            "AcceptedCommonName": "little black cormorant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1264,
+            "AcceptedCommonName": "pied cormorant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1279,
+            "AcceptedCommonName": "Australasian darter",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1265,
+            "AcceptedCommonName": "Australasian gannet",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1268,
+            "AcceptedCommonName": "brown booby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1281,
+            "AcceptedCommonName": "lesser frigatebird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1188,
+            "AcceptedCommonName": "wedge-tailed shearwater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1190,
+            "AcceptedCommonName": "short-tailed shearwater",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1969,
+            "AcceptedCommonName": "Australian swiftlet",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18827,
+            "AcceptedCommonName": "house swift",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1965,
+            "AcceptedCommonName": "fork-tailed swift",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1967,
+            "AcceptedCommonName": "glossy swiftlet",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1971,
+            "AcceptedCommonName": "white-throated needletail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1973,
+            "AcceptedCommonName": "Australian owlet-nightjar",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1975,
+            "AcceptedCommonName": "large-tailed nightjar",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1949,
+            "AcceptedCommonName": "white-throated nightjar",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1953,
+            "AcceptedCommonName": "Papuan frogmouth",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1955,
+            "AcceptedCommonName": "tawny frogmouth",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1801,
+            "AcceptedCommonName": "Pacific emerald dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1803,
+            "AcceptedCommonName": "white-headed pigeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1804,
+            "AcceptedCommonName": "rock dove",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1806,
+            "AcceptedCommonName": "pied imperial-pigeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1809,
+            "AcceptedCommonName": "diamond dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1810,
+            "AcceptedCommonName": "bar-shouldered dove",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18323,
+            "AcceptedCommonName": "peaceful dove",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1787,
+            "AcceptedCommonName": "wonga pigeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1789,
+            "AcceptedCommonName": "topknot pigeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1791,
+            "AcceptedCommonName": "brown cuckoo-dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1795,
+            "AcceptedCommonName": "common bronzewing",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1770,
+            "AcceptedCommonName": "wompoo fruit-dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1771,
+            "AcceptedCommonName": "rose-crowned fruit-dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1773,
+            "AcceptedCommonName": "superb fruit-dove",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1774,
+            "AcceptedCommonName": "spotted dove",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1271,
+            "AcceptedCommonName": "great crested grebe",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1249,
+            "AcceptedCommonName": "Australasian grebe",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1286,
+            "AcceptedCommonName": "white-tailed tropicbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1273,
+            "AcceptedCommonName": "red-tailed tropicbird",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1992,
+            "AcceptedCommonName": "chestnut teal",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1993,
+            "AcceptedCommonName": "grey teal",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1994,
+            "AcceptedCommonName": "northern mallard",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1998,
+            "AcceptedCommonName": "Pacific black duck",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1999,
+            "AcceptedCommonName": "hardhead",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2003,
+            "AcceptedCommonName": "Australian wood duck",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2005,
+            "AcceptedCommonName": "black swan",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1977,
+            "AcceptedCommonName": "wandering whistling-duck",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1978,
+            "AcceptedCommonName": "plumed whistling-duck",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18159,
+            "AcceptedCommonName": "spotted whistling-duck",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1980,
+            "AcceptedCommonName": "pink-eared duck",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1982,
+            "AcceptedCommonName": "cotton pygmy-goose",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1983,
+            "AcceptedCommonName": "green pygmy-goose",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1989,
+            "AcceptedCommonName": "radjah shelduck",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1996,
+            "AcceptedCommonName": "Australasian shoveler",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1963,
+            "AcceptedCommonName": "magpie goose",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1698,
+            "AcceptedCommonName": "king quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1687,
+            "AcceptedCommonName": "brown quail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1694,
+            "AcceptedCommonName": "Australian brush-turkey",
+            "PestStatus": "Agricultural Pest"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1696,
+            "AcceptedCommonName": "orange-footed scrubfowl",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 1087,
+            "AcceptedCommonName": "southern cassowary (southern population)",
+            "PestStatus": "Potentially Aggressive"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 497,
+            "AcceptedCommonName": "northern death adder",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 373,
+            "AcceptedCommonName": "mosaic sea snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 500,
+            "AcceptedCommonName": "northern dwarf crowned snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 455,
+            "AcceptedCommonName": "Carpentaria whip snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 457,
+            "AcceptedCommonName": "eastern small-eyed snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 458,
+            "AcceptedCommonName": "black-striped snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 493,
+            "AcceptedCommonName": "yellow-faced whipsnake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 495,
+            "AcceptedCommonName": "collared whipsnake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 488,
+            "AcceptedCommonName": "orange-naped snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 477,
+            "AcceptedCommonName": "black-bellied swamp snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 479,
+            "AcceptedCommonName": "pale-headed snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 340,
+            "AcceptedCommonName": "spine-bellied sea snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 361,
+            "AcceptedCommonName": "elegant sea snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 348,
+            "AcceptedCommonName": "spectacled sea snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 370,
+            "AcceptedCommonName": "horned sea snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 347,
+            "AcceptedCommonName": "Stokes's sea snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 470,
+            "AcceptedCommonName": "coastal taipan",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 462,
+            "AcceptedCommonName": "red-bellied black snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 441,
+            "AcceptedCommonName": "myall snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 442,
+            "AcceptedCommonName": "rough-scaled snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 444,
+            "AcceptedCommonName": "bandy-bandy",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 522,
+            "AcceptedCommonName": "brown tree snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 526,
+            "AcceptedCommonName": "northern tree snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 512,
+            "AcceptedCommonName": "green tree snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 514,
+            "AcceptedCommonName": "Macleay's water snake",
+            "PestStatus": "Venomous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 505,
+            "AcceptedCommonName": "slaty-grey snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 508,
+            "AcceptedCommonName": "freshwater snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 586,
+            "AcceptedCommonName": "Arafura file snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 572,
+            "AcceptedCommonName": "little file snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 537,
+            "AcceptedCommonName": "spotted python",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 540,
+            "AcceptedCommonName": "black-headed python",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 530,
+            "AcceptedCommonName": "water python",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 519,
+            "AcceptedCommonName": "carpet python",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 533,
+            "AcceptedCommonName": "amethystine python (Australian form)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 97,
+            "AcceptedCommonName": "faint-striped blind snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 93,
+            "AcceptedCommonName": "north-eastern blind snake",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 96,
+            "AcceptedCommonName": "flowerpot blind snake",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 221,
+            "AcceptedCommonName": "major skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 36623,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 32835,
+            "AcceptedCommonName": "closed-litter rainbow-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 297,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 300,
+            "AcceptedCommonName": "black-throated rainbow-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 302,
+            "AcceptedCommonName": "robust rainbow-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 289,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 275,
+            "AcceptedCommonName": "Storr's rainbow-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 214,
+            "AcceptedCommonName": "northern bar-sided skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 194,
+            "AcceptedCommonName": "yellow-blotched forest-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 31900,
+            "AcceptedCommonName": "striped snake-eyed skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 260,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 240,
+            "AcceptedCommonName": "straight-browed ctenotus",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 243,
+            "AcceptedCommonName": "copper-tailed skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 216,
+            "AcceptedCommonName": "pink-tongued lizard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 186,
+            "AcceptedCommonName": "lowlands bar-lipped skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 190,
+            "AcceptedCommonName": "eastern water skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 195,
+            "AcceptedCommonName": "slender mulch-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 185,
+            "AcceptedCommonName": "black-tailed bar-lipped skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 175,
+            "AcceptedCommonName": "prickly forest skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 36618,
+            "AcceptedCommonName": "rainforest sunskink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 184,
+            "AcceptedCommonName": "dark-flecked garden sunskink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 295,
+            "AcceptedCommonName": "outcrop rainbow-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 151,
+            "AcceptedCommonName": "rainforest edge litter-skink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 122,
+            "AcceptedCommonName": "basilisk shadeskink",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 104,
+            "AcceptedCommonName": "eastern blue-tongued lizard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 84,
+            "AcceptedCommonName": "ridge-tailed monitor",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 69,
+            "AcceptedCommonName": "spotted tree monitor",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 60,
+            "AcceptedCommonName": "black-tailed monitor",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 61,
+            "AcceptedCommonName": "lace monitor",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 574,
+            "AcceptedCommonName": "frilled lizard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 567,
+            "AcceptedCommonName": "tommy roundhead",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 568,
+            "AcceptedCommonName": "two-lined dragon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 554,
+            "AcceptedCommonName": "eastern water dragon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 549,
+            "AcceptedCommonName": "Boyd's forest dragon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 323,
+            "AcceptedCommonName": "excitable delma",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 325,
+            "AcceptedCommonName": "Burton's legless lizard",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 393,
+            "AcceptedCommonName": "spiny knob-tailed gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 388,
+            "AcceptedCommonName": "northern leaf-tailed gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 400,
+            "AcceptedCommonName": "northern spotted velvet gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 420,
+            "AcceptedCommonName": "dubious dtella",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 409,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 411,
+            "AcceptedCommonName": "house gecko",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 413,
+            "AcceptedCommonName": "Bynoe's gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 415,
+            "AcceptedCommonName": "mourning gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18840,
+            "AcceptedCommonName": "Chevert gecko",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 31642,
+            "AcceptedCommonName": "Johnstone River snapping turtle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 58,
+            "AcceptedCommonName": "Krefft's river turtle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 54,
+            "AcceptedCommonName": "saw-shelled turtle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 583,
+            "AcceptedCommonName": "Australian freshwater crocodile",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 584,
+            "AcceptedCommonName": "estuarine crocodile",
+            "PestStatus": "Potentially Aggressive"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 716,
+            "AcceptedCommonName": "cane toad",
+            "PestStatus": "Poisonous"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 581,
+            "AcceptedCommonName": "Australian woodfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 703,
+            "AcceptedCommonName": "white browed whistlefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 708,
+            "AcceptedCommonName": "creaking nurseryfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 34462,
+            "AcceptedCommonName": "northern ornate nursery-frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 620,
+            "AcceptedCommonName": "eastern snapping frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 625,
+            "AcceptedCommonName": "northern sedgefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 627,
+            "AcceptedCommonName": "common green treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 579,
+            "AcceptedCommonName": "Australian lacelid",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 608,
+            "AcceptedCommonName": "eastern sedgefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 611,
+            "AcceptedCommonName": "graceful treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 612,
+            "AcceptedCommonName": "bumpy rocketfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 613,
+            "AcceptedCommonName": "white lipped treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 29175,
+            "AcceptedCommonName": "northern stony creek frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 615,
+            "AcceptedCommonName": "stony creek frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 618,
+            "AcceptedCommonName": "javelin frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 603,
+            "AcceptedCommonName": "waterfall frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 604,
+            "AcceptedCommonName": "striped rocketfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 598,
+            "AcceptedCommonName": "common mistfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 599,
+            "AcceptedCommonName": "eastern laughing treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 600,
+            "AcceptedCommonName": "ruddy treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 610,
+            "AcceptedCommonName": "tapping green eyed frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 601,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 592,
+            "AcceptedCommonName": "orange thighed treefrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 30937,
+            "AcceptedCommonName": "mottled barred frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 662,
+            "AcceptedCommonName": "northern barred frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 651,
+            "AcceptedCommonName": "sharp snouted dayfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 638,
+            "AcceptedCommonName": "mimicking gungan",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 677,
+            "AcceptedCommonName": "marbled frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 681,
+            "AcceptedCommonName": "striped marshfrog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 680,
+            "AcceptedCommonName": "ornate burrowing frog",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26978,
+            "AcceptedCommonName": "roman-nose goby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26989,
+            "AcceptedCommonName": "Mulgrave goby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26986,
+            "AcceptedCommonName": "false celebes goby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27003,
+            "AcceptedCommonName": "speckled goby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27006,
+            "AcceptedCommonName": "scaleless goby",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26946,
+            "AcceptedCommonName": "greenback gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26949,
+            "AcceptedCommonName": "brown spine-cheek gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26950,
+            "AcceptedCommonName": "black spine-cheek gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26951,
+            "AcceptedCommonName": "snakehead gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26954,
+            "AcceptedCommonName": "empire gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18168,
+            "AcceptedCommonName": "southern purplespotted gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26962,
+            "AcceptedCommonName": "spangled gudgeon",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26938,
+            "AcceptedCommonName": "Mozambique mouthbrooder",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26939,
+            "AcceptedCommonName": "spotted tilapia",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27100,
+            "AcceptedCommonName": "sevenspot archerfish",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26977,
+            "AcceptedCommonName": "threadfin silverbiddy",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27020,
+            "AcceptedCommonName": "mangrove jack",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26912,
+            "AcceptedCommonName": "mouth almighty",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27017,
+            "AcceptedCommonName": "jungle perch",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26903,
+            "AcceptedCommonName": "flagtail glassfish",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27068,
+            "AcceptedCommonName": "bullrout",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27076,
+            "AcceptedCommonName": "swamp eel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27055,
+            "AcceptedCommonName": "mosquitofish",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19548,
+            "AcceptedCommonName": "guppy",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19501,
+            "AcceptedCommonName": "platy",
+            "PestStatus": "Feral Animal"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26920,
+            "AcceptedCommonName": "flyspecked hardyhead",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27058,
+            "AcceptedCommonName": "spotted blue eye",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27059,
+            "AcceptedCommonName": "Pacific blue eye",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27022,
+            "AcceptedCommonName": "Cairns rainbowfish",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27026,
+            "AcceptedCommonName": "McCulloch's rainbowfish",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19495,
+            "AcceptedCommonName": null,
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27029,
+            "AcceptedCommonName": "eastern rainbowfish",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 34835,
+            "AcceptedCommonName": "giant mottled eel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26909,
+            "AcceptedCommonName": "Pacific shortfin eel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 26910,
+            "AcceptedCommonName": "longfin eel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 27021,
+            "AcceptedCommonName": "oxeye herring",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 22562,
+            "AcceptedCommonName": "grey reef shark",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18532,
+            "AcceptedCommonName": "green tree ant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19224,
+            "AcceptedCommonName": "white oak-blue",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19211,
+            "AcceptedCommonName": "copper jewel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18,
+            "AcceptedCommonName": "Apollo jewel (Wet Tropics subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 3,
+            "AcceptedCommonName": "large moonbeam (Wet Tropics)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2007,
+            "AcceptedCommonName": "delicate blue",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19315,
+            "AcceptedCommonName": "spotted grass-blue",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19317,
+            "AcceptedCommonName": "common grass-blue (Cape York subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19147,
+            "AcceptedCommonName": "tailed emperor",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19151,
+            "AcceptedCommonName": "bordered rustic (Australian subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19178,
+            "AcceptedCommonName": "swamp tiger",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19185,
+            "AcceptedCommonName": "common crow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19165,
+            "AcceptedCommonName": "blue-banded eggfly",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19163,
+            "AcceptedCommonName": "varied eggfly",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19171,
+            "AcceptedCommonName": "chocolate argus",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19173,
+            "AcceptedCommonName": "blue argus",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2010,
+            "AcceptedCommonName": "purple beak",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19128,
+            "AcceptedCommonName": "dingy bush-brown",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19127,
+            "AcceptedCommonName": "orange bush-brown",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19158,
+            "AcceptedCommonName": "yellow-eyed plane",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19159,
+            "AcceptedCommonName": "white-banded plane (southern subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19176,
+            "AcceptedCommonName": "blue tiger",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19154,
+            "AcceptedCommonName": "cruiser",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19113,
+            "AcceptedCommonName": "yellow albatross",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19078,
+            "AcceptedCommonName": "lemon migrant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19107,
+            "AcceptedCommonName": "black jezebel",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19086,
+            "AcceptedCommonName": "large grass-yellow",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19075,
+            "AcceptedCommonName": "clearwing swallowtail",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19065,
+            "AcceptedCommonName": "green-spotted triangle",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18477,
+            "AcceptedCommonName": "Cairns birdwing",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2015,
+            "AcceptedCommonName": "New Guinea birdwing",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19068,
+            "AcceptedCommonName": "orchard swallowtail (Australian subspecies)",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 2018,
+            "AcceptedCommonName": "Ulysses butterfly",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 20,
+            "AcceptedCommonName": "purple dusk-flat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19048,
+            "AcceptedCommonName": "white-clubbed swift",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 19032,
+            "AcceptedCommonName": "wide-brand grass-dart",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 18968,
+            "AcceptedCommonName": "pied flat",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35194,
+            "AcceptedCommonName": "palemouth",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35204,
+            "AcceptedCommonName": "water prince",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35206,
+            "AcceptedCommonName": "wandering pennant",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35231,
+            "AcceptedCommonName": "yellow-striped flutterer",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35233,
+            "AcceptedCommonName": "jewel flutterer",
+            "PestStatus": "Nil"
+        }
+    },
+    {
+        "Species": {
+            "TaxonID": 35125,
+            "AcceptedCommonName": "fat-bellied emerald",
+            "PestStatus": "Nil"
+        }
+    }
+]
