@@ -1,6 +1,6 @@
 # WEEK 9
 
-**Task 6 Add a GPS stub**
+# **Task 6 Add a GPS stub**
 
 **Code:**
 ![Screenshot](Images/Task6-Screenshot.png)
